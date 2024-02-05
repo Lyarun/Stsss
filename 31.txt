@@ -1,0 +1,106 @@
+Изучив код, скажите какой цвет будет иметь текст в теге b:
+
+<p>
+	This is some <i>text</i> in paragraph.
+</p>
+p {
+	color: blue;
+}
+
+черный
+
+Изучив код, скажите какой цвет будет иметь текст в теге b:
+
+<p>
+	This is some <i>text</i> in paragraph.
+</p>
+p {
+	color: blue;
+}
+b {
+	color: red;
+}
+
+красный
+
+Изучив код, скажите какой цвет будет иметь текст в теге b:
+
+<p>
+	This is some <i>text</i> in paragraph.
+</p>
+b {
+	color: red;
+}
+p {
+	color: blue;
+}
+
+красный
+
+Изучив код, скажите какой цвет будет иметь текст в теге li:
+
+<ul>
+	<li>text</li>
+	<li>text</li>
+	<li>text</li>
+</ul>
+ul {
+	color: blue;
+}
+
+синий
+
+Изучив код, скажите какой цвет будет иметь текст в теге li:
+
+<ul>
+	<li>text</li>
+	<li>text</li>
+	<li>text</li>
+</ul>
+ul {
+	color: blue;
+}
+li {
+	color: red;
+}
+
+красный
+
+Изучив код, скажите какой цвет будет иметь текст в теге i:
+
+<ul>
+	<li>text <i>italic</i> text</li>
+	<li>text <i>italic</i> text</li>
+	<li>text <i>italic</i> text</li>
+</ul>
+ul {
+	color: blue;
+}
+li {
+	color: red;
+}
+i {
+	color: green;
+}
+
+зеленый
+
+Изучив код, скажите какой размер будет иметь текст в теге i:
+
+<ul>
+	<li>text <i>italic</i> text</li>
+	<li>text <i>italic</i> text</li>
+	<li>text <i>italic</i> text</li>
+</ul>
+i {
+	font-size: 30px;
+}
+ul {
+	font-size: 20px;
+}
+li {
+	color: red;
+	font-weight: bold;
+}
+
+30px

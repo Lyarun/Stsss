@@ -1,0 +1,16 @@
+text {
+    padding: 0; 
+    margin-left: 20px;
+    }
+h1 {
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+h2 {
+    text-align: center;
+    color: green;
+}
+p {
+    text-indent: 50px;
+}
